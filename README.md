@@ -76,13 +76,6 @@ Next, we would like to create inputs for the user to insert their name, email, p
 <form action="#" method="post">
   <label for="fullname">Name</label>
   <input type="text" id="fullname" name="fullname" placeholder="your name" required>
-  <label for="email">Email</label>
-  <input type="email" id="email" name="email" placeholder="your email" required>
-  <label for="phone">Phone</label>
-  <input type="tel" id="phone" name="phone placeholder="your phone (optional)>
-  <label for="message">Message</label>
-  <textarea id="message" name="message" rows="10"></textarea>
-  <input type="submit" value="send">
 </form>
 ```
 
